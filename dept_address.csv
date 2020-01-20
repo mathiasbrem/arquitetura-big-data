@@ -1,10 +1,10 @@
 dept_no,dept_name,street,floor,country,state,city,lat,long
-d009,Customer Service,"234 West 42nd Street, New York, New York, 10036, EUA",12,USA,NY,NY,40.756360,-73.989050
-d005,Development,"Av. Paulista, 1009 - Bela Vista, São Paulo - SP, 01311-100",21,BRA,SP,SP,-23.565580,-46.651430
-d002,Finance,"234 West 42nd Street, New York, New York, 10036, EUA",12,USA,NY,NY,40.756360,-73.989050
-d003,Human Resources,"234 West 42nd Street, New York, New York, 10036, EUA",12,USA,NY,NY,40.756360,-73.989050
-d001,Marketing,"Av. Paulista, 1009 - Bela Vista, São Paulo - SP, 01311-100",21,BRA,SP,SP,-23.565580,-46.651430
-d004,Production,"RenMinDaDao 100Hao ChengShiGuiHuaZhanShiGuan b1 Lou ( Jin XiZangZhongLu ), Xangai, China",23,CHINA,XANGAI,Manchukuo,39.930840,116.386340
-d006,Quality Management,"RenMinDaDao 100Hao ChengShiGuiHuaZhanShiGuan b1 Lou ( Jin XiZangZhongLu ), Xangai, China",23,CHINA,XANGAI,Manchukuo,39.930840,116.386340
-d008,Research,"RenMinDaDao 100Hao ChengShiGuiHuaZhanShiGuan b1 Lou ( Jin XiZangZhongLu ), Xangai, China",23,CHINA,XANGAI,Manchukuo,39.930840,116.386340
-d007,Sales,"234 West 42nd Street, New York, New York, 10036, EUA",18,USA,NY,NY,40.756360,-73.989050
+d009,Customer Service,234 West 42nd Street, New York, New York, 10036, EUA,12,USA,NY,NY,40.756360,-73.989050
+d005,Development,Av. Paulista, 1009 - Bela Vista, São Paulo - SP, 01311-100,21,BRA,SP,SP,-23.565580,-46.651430
+d002,Finance,234 West 42nd Street, New York, New York, 10036, EUA,12,USA,NY,NY,40.756360,-73.989050
+d003,Human Resources,234 West 42nd Street, New York, New York, 10036, EUA,12,USA,NY,NY,40.756360,-73.989050
+d001,Marketing,Av. Paulista, 1009 - Bela Vista, São Paulo - SP, 01311-100,21,BRA,SP,SP,-23.565580,-46.651430
+d004,Production,RenMinDaDao 100Hao ChengShiGuiHuaZhanShiGuan b1 Lou ( Jin XiZangZhongLu ), Xangai, China,23,CHINA,XANGAI,Manchukuo,39.930840,116.386340
+d006,Quality Management,RenMinDaDao 100Hao ChengShiGuiHuaZhanShiGuan b1 Lou ( Jin XiZangZhongLu ), Xangai, China,23,CHINA,XANGAI,Manchukuo,39.930840,116.386340
+d008,Research,RenMinDaDao 100Hao ChengShiGuiHuaZhanShiGuan b1 Lou ( Jin XiZangZhongLu ), Xangai, China,23,CHINA,XANGAI,Manchukuo,39.930840,116.386340
+d007,Sales,234 West 42nd Street, New York, New York, 10036, EUA,18,USA,NY,NY,40.756360,-73.989050
