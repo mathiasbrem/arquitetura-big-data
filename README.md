@@ -7,7 +7,7 @@ O arquivo dept_address.csv é utilizado na Aula 2
 Os alunos devem baixar o arquivo diretamente na máquina virtual que possui o ambiente Hadoop
 
 
-
+Testando o git com os alunos
 
 
 
