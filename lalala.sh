@@ -1,0 +1,2 @@
+#!/binh/bash
+echo "lalal";
