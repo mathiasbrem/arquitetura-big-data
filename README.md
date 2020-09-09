@@ -9,7 +9,12 @@ Os alunos devem baixar o arquivo diretamente na máquina virtual que possui o am
 
 Testando o git com os alunos
 
+Example de Markdown pelo shell:
 
+<code>
+#!/binh/bash
+echo "lalal";  
+</code>
 
 
 
