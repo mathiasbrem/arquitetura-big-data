@@ -1,5 +1,5 @@
 # Class of [ Big Data Architecture ] 
-## MBA in Big Data & Bussiness Analytics - Impacta Tecnologia
+## MBA in Big Data & Bussiness Analytics
 
 ### Arquivo para Enriquecimento da base de dados
 
